@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Clone the repo
 git clone https://github.com/Iaakashgarg/Moveable-Code-Generator/tree/master
+
 cd Moveable-Code-Generator
 
 ## Install npm packages
