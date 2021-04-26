@@ -2,6 +2,24 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
+## Clone the repo
+git clone https://github.com/Iaakashgarg/Moveable-Code-Generator/tree/master
+cd Moveable-Code-Generator
+
+## Install npm packages
+Install the npm packages described in the package.json and verify that it works:
+
+npm install
+
+## Run application in browser
+ng serve
+
+The ng serve command builds (compiles TypeScript and copies assets) the application into dist/, watches for changes to the source files, and runs server on port 4200.
+
+Navigate to `http://localhost:4200/`
+
+Shut it down manually with Ctrl-C to stop the server.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
